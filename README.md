@@ -15,3 +15,11 @@ a simple solution
 pipenv shell --python 3.11
 pip install -r requirements.txt
 ```
+## Usage
+```
+python cli_script.py
+
+or
+
+python cli_script.py --pdf_path ./sources/handbook.pdf --questions "what is the org name? what is the termination policy here?"
+```
