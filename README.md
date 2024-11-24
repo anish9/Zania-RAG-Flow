@@ -1,7 +1,7 @@
 # Zania-RAG-Flow
 a simple solution 
 
-## Summary Overview?
+## Summary:
 * Parse PDF using a suitable method.
 * Build knowledge chunks.
 * Create embeddings for the chunks.
