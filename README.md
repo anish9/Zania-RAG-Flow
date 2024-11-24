@@ -15,7 +15,7 @@ a simple solution
 pipenv shell --python 3.11
 pip install -r requirements.txt
 ```
-## Usage
+## Usage:
 ```
 python cli_script.py #default encoded to answer all the given questions
 
