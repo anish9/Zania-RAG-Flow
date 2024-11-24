@@ -7,3 +7,10 @@ a simple solution
 * Create embeddings for the chunks.
 * In test time use suitable distance metric to retrieve chunks.
 * Prepare the context and question and pass to LLM.
+
+## Setup:
+ * Python3.11<=
+ * pipenv for virtualenv
+```
+pipenv shell && pip install -r requirements.txt
+```
