@@ -17,9 +17,9 @@ pip install -r requirements.txt
 ```
 ## Usage
 ```
-python cli_script.py
+python cli_script.py #default encoded to answer all the given questions
 
 or
 
-python cli_script.py --pdf_path ./sources/handbook.pdf --questions "what is the org name? what is the termination policy here?"
+python cli_script.py --pdf_path ./source_docs/handbook.pdf --questions "what is the company name?" "what is the termination policy here?"
 ```
