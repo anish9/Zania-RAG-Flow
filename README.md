@@ -12,5 +12,6 @@ a simple solution
  * Python3.11<=
  * pipenv for virtualenv
 ```
-pipenv shell && pip install -r requirements.txt
+pipenv shell --python 3.11
+pip install -r requirements.txt
 ```
